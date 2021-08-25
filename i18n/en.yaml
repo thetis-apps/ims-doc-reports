@@ -1,0 +1,12 @@
+- id: fields
+  translation: Fields
+  
+- id: constraints
+  translation: Constraints
+  
+- id: definition
+  translation: Definition
+  
+  id: options
+  translation: Options
+  

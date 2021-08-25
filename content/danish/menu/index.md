@@ -37,7 +37,7 @@ headless: true
 	- [Label 100 x 25 mm]({{< relref "docs/LocationLabel_100x25mm.md" >}})
 
 - **Etiket til logistisk variant**
-
+	- [Label 100 x 50 mm med GS1-128 stregkode]({{< relref "docs/LogisticVariantLabel.md" >}})
 
 - **Optællingsliste**
 	- [Standard A4]({{< relref "docs/StockTakingList.md" >}})

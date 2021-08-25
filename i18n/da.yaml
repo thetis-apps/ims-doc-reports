@@ -1,0 +1,11 @@
+- id: fields
+  translation: Felter
+  
+- id: constraints
+  translation: Begrænsninger
+  
+- id: definition
+  translation: Definition
+  
+  id: options
+  translation: Mulige værdier

@@ -1,0 +1,25 @@
+---
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+baseURL: https://reports.thetis-ims.com/
+title: Rapporter
+theme: hugo-book
+disableKinds:
+- taxonomy
+- taxonomyTerm
+disablePathToLower: true
+enableGitInfo: false
+pygmentsCodeFences: true
+params:
+  BookShowToC: true
+  BookMenuBundle: "/menu"
+  BookSection: docs
+  BookEnableJS: true
+  BookDateFormat: Jan 2, 2006
+languages:
+  da:
+    contentDir: "content/danish" 
+  en:
+    contentDir: "content/english"
