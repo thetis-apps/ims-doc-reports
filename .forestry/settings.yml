@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/danish/_index.md
   label: Danish introduction
-  match: "**/*"
 - type: directory
   path: content
   label: All
