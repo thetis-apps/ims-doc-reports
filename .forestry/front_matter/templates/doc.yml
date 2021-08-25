@@ -8,5 +8,4 @@ fields:
     required: false
   label: Description
 pages:
-- content/_index.md
 - content/danish/_index.md

@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/danish/_index.md
+  label: Danish introduction
+  match: "**/*"
 - type: directory
   path: content
   label: All
@@ -11,7 +15,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/danish/docs
-  label: Danish
+  label: Danish reports
   create: documents
   match: "*"
 upload_dir: examples
