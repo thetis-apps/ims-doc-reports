@@ -2,7 +2,7 @@
 
 description = "Description"
 draft = false
-type = docs
+type = "docs"
 
 +++
 # Indledning
