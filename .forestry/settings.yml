@@ -18,7 +18,7 @@ sections:
   create: documents
   match: "*"
 upload_dir: examples
-public_path: examples
+public_path: https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
