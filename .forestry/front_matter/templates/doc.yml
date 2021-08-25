@@ -1,0 +1,12 @@
+---
+label: doc
+hide_body: false
+fields:
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+pages:
+- content/_index.md
+- content/danish/_index.md
