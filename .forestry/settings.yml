@@ -3,7 +3,12 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: directory
+  path: content/danish/docs
+  label: Danish
+  create: all
+  match: "**/*"
 upload_dir: examples
 public_path: examples
 front_matter_path: ''
