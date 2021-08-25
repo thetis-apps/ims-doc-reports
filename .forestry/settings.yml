@@ -1,0 +1,34 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: document
+  path: content/danish/_index.md
+  label: Danish introduction
+- type: directory
+  path: content
+  label: All
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/danish/docs
+  label: Danish reports
+  create: documents
+  match: "*"
+upload_dir: examples
+public_path: https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples
+front_matter_path: ''
+use_front_matter_path: 
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.81.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --renderToDisk -d public
+version: 0.81.0
