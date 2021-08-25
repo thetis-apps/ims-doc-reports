@@ -2,6 +2,23 @@
 <article class="markdown">
   {{- .Content -}}
 </article>
+
+<div style="padding: 1em; background: lightyellow; margin-top: 3em;">
+	<h2>Kom i kontakt med os</h2>
+	<p>Har du en kommentar eller et spørgsmål til denne rapport, er du meget velkommen til sende os en besked. Vi vender tilbage så hurtigt som muligt.</p>
+	<form action="{{ .Site.Params.CommentAction }}" method="get">
+	  <p>
+	    <input id="emailField" name="email" type="email" placeholder="Din email" style="width: 100%;" required />
+	  </p>
+	  <p>
+	    <textarea name="text" rows="10" required placeholder="Din kommentar" style="width: 100%;"></textarea>
+	  </p>
+	  <p>
+	    <button type="submit">Send</button>
+	  </p>
+	</form>
+</div>	
+
 {{ end }}
 
 {{ define "toc" }}
