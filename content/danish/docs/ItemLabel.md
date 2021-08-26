@@ -5,7 +5,7 @@
 
 > ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/ItemLabel-1.png)
 
-Indkodningen af afhængig af længden af GTIN: 
+Indkodningen er afhængig af længden af GTIN: 
 
 * 13 cifre: EAN-13
 * 12 cifre: UPC-12
