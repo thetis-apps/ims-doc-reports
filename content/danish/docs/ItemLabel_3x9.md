@@ -5,4 +5,4 @@
 
 > ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/ItemLabel_3x9-1.png)
 
-Du kan
+Du kan downloade eksemplet her: [ItemLabel_3x9.pdf](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/ItemLabel_3x9.pdf "ItemLabel_3x9.pdf")
