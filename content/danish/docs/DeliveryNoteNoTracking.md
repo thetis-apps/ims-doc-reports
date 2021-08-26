@@ -8,3 +8,5 @@
 Viser de leverede varer grupperet efter den forsendelseslinje, som de hører til.
 
 Varenummeret er: Kundens varenummer, branchens varenummer vores SKU.
+
+Du kan downloade eksemplet her: [DeliveryNoteNoTracking.pdf](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/DeliveryNoteNoTracking.pdf "DeliveryNoteNoTracking.pdf")
