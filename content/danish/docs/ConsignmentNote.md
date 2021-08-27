@@ -5,7 +5,7 @@
 
 Navnet på rapporten er: 'ConsignmentNote'. Vi opretter automatisk denne rapport i alle nye abonnementer.
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/ConsignmentNote-1.png)
+> ![Eksempel på overdragelsesseddel - A4 Standard](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/ConsignmentNote-1.png)
 
 Rapporten viser alle forsendelsesbeholdere som indgår i udvalgte forsendelser. 
 

@@ -5,7 +5,7 @@
 
 Rapportens navn er: 'PickingList'. Vi opretter automatisk denne rapport i alle nye abonnementer. 
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/PickingList-1.png)
+> ![Eksempel på plukkeliste - A4 Standard](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/PickingList-1.png)
 
 Rapporten viser alle linjer, som det er relevant at plukke til en enkelt forsendelse. Linjerne er sorteret efter lokationsnummer, produktnummer, farve og størrelse. 
 

@@ -5,7 +5,7 @@
 
 Navnet på rapporten er: 'StockTakingList'. Vi opretter automatisk denne rapport i nye abonnementer.
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/StockTakingList-1.png)
+> ![Eksempel på optællingsliste - A4 Standard](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/StockTakingList-1.png)
 
 Rapporten viser alle beholdninger, som er udvalgt til en given optælling.
 

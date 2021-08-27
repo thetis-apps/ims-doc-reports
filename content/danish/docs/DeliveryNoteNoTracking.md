@@ -5,7 +5,7 @@
 
 Navnet på denne rapport er: 'DeliveryNoteNoTracking'. Vi opretter automatisk denne rapport i alle nye abonnementer.
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/DeliveryNoteNoTracking-1.png)
+> ![Eksempel på følgeseddel - A4 Standard](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/DeliveryNoteNoTracking-1.png)
 
 Rapporten viser de pakkede varer grupperet efter forsendelseslinje.
 

@@ -5,7 +5,7 @@
 
 Rapportens navn er: 'MultiPickingList'. VI opretter automatisk denne rapport i nye abonnementer. 
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/MultiPickingList-1.png)
+> ![Eksempel på multi-plukkeliste - A4 Standard](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/MultiPickingList-1.png)
 
 Rapporten viser alle linjer, som det er relevant at plukke til en række udvalgte forsendelser. Linjerne er sorteret efter lokationsnummer, produktnummer, farve og størrelse. Hver forsendelse er knyttet til en boks. En boks kan f.eks være en kasse på en plukke-vogn. 
 

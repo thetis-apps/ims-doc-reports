@@ -5,7 +5,7 @@
 
 Navnet på denne rapport er: 'DeliveryNote'. Du skal selv oprette denne rapport, hvis du ønsker at bruge den.
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/DeliveryNote_da-1.png)
+> ![Eksempel på følgeseddel - A4 grupperet efter forsendelsesbeholder](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/DeliveryNote_da-1.png)
 
 Rapporten viser de varer, som er pakket til en forsendelse. Varerne er grupperet efter forsendelsesbeholder.
 
