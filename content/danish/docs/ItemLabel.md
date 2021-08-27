@@ -7,6 +7,8 @@ Navnet på denne rapport er: 'ItemLabel'. Vi opretter automatisk denne rapport i
 
 > ![Eksempel på etiket til vare - Ark 4 x 10](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/ItemLabel-1.png)
 
+Denne rapport passer til etiketarket Avery L7654.
+
 Hver etiket indeholder en stregkode med varens [GTIN](https://data.thetis-ims.com/da/docs/GlobalTradeItem#globalTradeItemNumber "GTIN"). Indkodningen er afhængig af længden af varens GTIN:
 
 * 13 cifre: EAN-13
