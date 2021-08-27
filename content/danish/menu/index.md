@@ -5,19 +5,19 @@ headless: true
 - [**Introduktion**]({{< relref "/" >}})
   
 - **Plukkeliste**
-	- [Standard A4]({{< relref "docs/PickingList.md" >}})
+	- [A4 Standard]({{< relref "docs/PickingList.md" >}})
 
 - **Multi-plukkeliste**
-	- [Standard A4]({{< relref "docs/MultiPickingList.md" >}})
+	- [A4 Standard]({{< relref "docs/MultiPickingList.md" >}})
 
 - **Følgeseddel**
-	- [A4 grupperet efter forsendelseslinje]({{< relref "docs/DeliveryNoteNoTracking.md" >}})
-	- [A4 grupperet efter forsendelsesbeholder]({{< relref "docs/DeliveryNote.md" >}})
+	- [A4 Standard]({{< relref "docs/DeliveryNoteNoTracking.md" >}})
+	- [A4 Grupperet efter forsendelsesbeholder]({{< relref "docs/DeliveryNote.md" >}})
 
-- **Overdragelsesliste**
-	- [Standard A4]({{< relref "docs/ConsignmentNote.md" >}})
+- **Overdragelsesseddel**
+	- [A4 Standard]({{< relref "docs/ConsignmentNote.md" >}})
 
-- **Vareetiket**
+- **Etiket til vare**
 	- [Ark 3 x 9]({{< relref "docs/ItemLabel_3x9.md" >}})
 	- [Ark 4 x 10]({{< relref "docs/ItemLabel.md" >}})
 	- [Label 100 x 25 mm]({{< relref "docs/ItemLabel_100x25mm.md" >}})
@@ -38,6 +38,5 @@ headless: true
 - **Etiket til logistisk variant**
 	- [Rulle 100 x 50 mm med GS1-128 stregkode]({{< relref "docs/LogisticVariantLabel.md" >}})
 
-
 - **Optællingsliste**
-	- [Standard A4]({{< relref "docs/StockTakingList.md" >}})
+	- [A4 Standard]({{< relref "docs/StockTakingList.md" >}})
