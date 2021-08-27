@@ -3,7 +3,9 @@
 +++
 # Etiket til lokation - Rulle Label 40 x 20 mm
 
-> ![](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/LocationLabel-1.png)
+Navnet på denne rapport er: 'LocationLabel'. Vi opretter denne rapport i alle nye abonnementer.
+
+> ![Eksempel på etiket til lokation - Rulle Label 40 x 20 mm](https://thetis-ims-reports.s3.eu-west-1.amazonaws.com/examples/LocationLabel-1.png)
 
 Lokationsnummeret er indkodet som Code-128.
 
