@@ -40,3 +40,10 @@ headless: true
 
 - **Optællingsliste**
 	- [A4 Standard]({{< relref "docs/StockTakingList.md" >}})
+
+- **Indlagringsliste**
+	- [A4 Standard]({{< relref "docs/PutAwayList.md" >}})
+
+- **Opfyldningsliste**
+	- [A4 Standard]({{< relref "docs/ReplenishmentList.md" >}})
+	
