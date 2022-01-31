@@ -1,6 +1,5 @@
 +++
 description = "Indlagringsliste"
-draft = true
 
 +++
 # Indlagringsliste - A4 Standard
