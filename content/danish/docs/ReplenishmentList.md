@@ -1,5 +1,5 @@
 +++
 description = "Opfyldningsliste"
-draft = true
 
 +++
+# Opfyldningsliste - A4 Standard
